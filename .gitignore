@@ -1,0 +1,56 @@
+# Binary output directory
+bin/
+
+# Test history and performance reports
+test-history/
+performance-reports/
+
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Go workspace file
+go.work
+
+# Dependency directories
+vendor/
+
+# Debug files
+debug/
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.html
+
+# Environment files
+.env
+.env.local
+
+# macOS specific
+.DS_Store
+
+# IDE specific
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log

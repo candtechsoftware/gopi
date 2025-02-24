@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://httpbin.org/post",
+    "method": "POST",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": ""
+  },
+  {
+    "url": "https://httpbin.org/get",
+    "method": "GET",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": ""
+  }
+
+]
