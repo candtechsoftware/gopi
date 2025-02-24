@@ -1,6 +1,8 @@
 # GOPI - Go Performance and Load Testing Tool
+🚧 This is not meant for production use. Milage may vary but it does seem to work ok.
 
 A performance testing tool for HTTP APIs that tracks performance trends over time.
+
 
 ## Features
 
